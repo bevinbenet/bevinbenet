@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bevinbenet
-- 👀 I’m interested in developing 
+- 👀 I’m interested in developing ANYTHING!!
 - 🌱 I’m currently learning strapi and finetuning LLM's
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me bevinbenet@gmail.com
